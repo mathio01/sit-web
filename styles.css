@@ -1,4 +1,10 @@
-head{
+h1{
+    background-color: #000000;
+    color: #f9f9fa;
+}
+body{
     text-align: center;
-    color: #ad4949
+    background-color: #ffa500;
+    color: #00000F;
+    font-size: 40px;
 }
